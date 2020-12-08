@@ -1,2 +1,4 @@
 This is a sample of my
 file created on the web
+...
+and was also edited once online at GitHub.
